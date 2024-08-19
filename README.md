@@ -1,5 +1,5 @@
 <h1 align="center">Hi🤘, I'm Huu Tung Vu</h1>
-<h3 align="center">I'm a Data Engineer / Analytics Engineer / BI Engineer.</h3>
+<h3 align="center">I'm a Data Engineer / Analytics Engineer / BI Engineer from Dak Lak, Vietnam .</h3>
 
 - 🌱 I’m currently learning **Apache Spark, Apache Beam, Apache Kafka and Data Engineering Fundamental.**
 
